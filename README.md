@@ -1,3 +1,4 @@
+![image](https://github.com/user-attachments/assets/96efcf67-8840-4467-80dc-ba729213d4ee)
 
 
 # Host a Static Website on AWS
