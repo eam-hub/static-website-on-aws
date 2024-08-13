@@ -55,7 +55,7 @@ The static website is hosted on an EC2 instance within a Virtual Private Cloud (
     yum install -y httpd 
     cd /var/www/html 
     yum install git -y 
-    git clone https://github.com/aosnotes77/host-a-static-website-on-aws.git 
+    git clone https://github.com/eam-hub/static-website-on-aws.git 
     cp -R host-a-static-website-on-aws/. /var/www/html/ 
     rm -rf host-a-static-website-on-aws 
     systemctl enable httpd  
