@@ -77,7 +77,7 @@ The static website is hosted on an EC2 instance within a Virtual Private Cloud (
 
 ## Project Repository
 
-All reference diagrams, deployment scripts, and additional resources are available in the [GitHub repository](https://github.com/aosnotes77/host-a-static-website-on-aws).
+All reference diagrams, deployment scripts, and additional resources are available in the [GitHub repository](https://github.com/eam-hub/static-website-on-aws.git).
 
 ## License
 
